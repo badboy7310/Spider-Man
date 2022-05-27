@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/06a30b1654798154e59f7.jpg" alt="Spider-Man">
 </p>
 <h1 align="center">
-  <b>🤖 Sᴘɪᴅᴇʀ Mᴀɴ</b>
+  <b>✨ ᴇᴠᴇʟʏɴ ✨</b>
 </h1>
 
 # Deploy To Heroku
