@@ -12,13 +12,13 @@ class script(object):
 
 📡 **ʜᴏsᴛᴇᴅ ᴏɴ : [ʜᴇʀᴏᴋᴜ](heroku.com)**
 
-👨‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ : [ᴍᴜꜰᴀᴢ ᴛɢ 🇮🇳](t.me/MufazTG)**
+👨‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ : [ꜱᴀᴛʏᴀᴍ 🇮🇳](t.me/thesatyamxyz)**
 
-💡 **sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/nokiyirunnoippokitum)**
+💡 **sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAidbBlx6leyOlB9aLVeyIjQ5BJlcGacRdJg&usqp=CAU)**
 
-👥 **sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : [ʙx sᴜᴘᴘᴏʀᴛ](https://t.me/BXSUPPORT)**
+👥 **sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : [sᴜᴘᴘᴏʀᴛ](https://t.me/+tM_k94XkPDcxOGE1)**
 
-📢 **ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : [ʙx ʙᴏᴛs](https://t.me/BX_Botz)**
+📢 **ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : [ᴡʜᴀᴛꜱᴛᴀʀ ᴡᴇʙ ꜱʜᴏᴡ](https://t.me/whatstarwebshow)**
 """
     SOURCE_TXT = """<b>NOTE:</b>
 - Not OpenSource
@@ -27,7 +27,7 @@ class script(object):
 
 - Filter is the feature were users can set automated replies for a particular keyword and 
 <b>NOTE:</b>
-1. Flash should have admin privillage.
+1. Bot should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -38,15 +38,15 @@ class script(object):
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Flash Supports both url and alert inline buttons.
+- Bot Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Flash supports buttons with any telegram media type.
+2. Bot supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/TheAutoFilterBot
+<code>[Button Text](buttonurl:https://t.me/V2autofilter_bot
 )</code>
 
 <b>Alert buttons:</b>
