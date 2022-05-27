@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://telegra.ph/file/2b1296f7a85e3cdfdc357.jpg" alt="Spider-Man">
+  <img src="https://telegra.ph/file/06a30b1654798154e59f7.jpg" alt="Spider-Man">
 </p>
 <h1 align="center">
   <b>🤖 Sᴘɪᴅᴇʀ Mᴀɴ</b>
 </h1>
+
+# Deploy To Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/badboy7310/Spider-Man)
 
@@ -33,10 +35,11 @@
 * `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
+
+
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-
 
 
 
@@ -69,4 +72,5 @@
 • /link - to create link for one post
 ```
 
-# Deploy To Heroku
+
+
