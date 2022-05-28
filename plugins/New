@@ -7,7 +7,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 caption = """
 **✅ Logo Generated Successfully
-Made With ❤ BY @BX_Botz**
+Made With ❤ **
     """
 #logo creator
 @Client.on_message(filters.command("logo"))
