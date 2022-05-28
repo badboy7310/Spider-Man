@@ -13,7 +13,7 @@ import io
 caption = """
 **✅ Logo Generated Successfully
 
-Made With ❤ BY @BX_Botz**
+Made With ❤ **
     """
 JOIN_ASAP = f"**Please Join MY Updates Channel To Use This Bot!**" 
 FSUBB = InlineKeyboardMarkup( 
